@@ -1,0 +1,33 @@
+[32m[2017-04-01 01:56:27.814] [INFO] console - [39m开始抓取: "caobi92xiaosaohuo": 
+[32m[2017-04-01 01:56:34.286] [INFO] console - [39m"caobi92xiaosaohuo" 共有: 152 条视频
+[32m[2017-04-01 01:56:34.287] [INFO] console - [39m正在抓取第0条,一共152条
+[32m[2017-04-01 01:56:36.999] [INFO] console - [39m正在抓取第50条,一共152条
+[32m[2017-04-01 01:56:40.291] [INFO] console - [39m正在抓取第100条,一共152条
+[32m[2017-04-01 01:56:43.831] [INFO] console - [39m正在抓取第150条,一共152条
+[32m[2017-04-01 01:56:45.347] [INFO] console - [39m正在抓取第200条,一共152条
+[32m[2017-04-01 01:56:48.007] [INFO] console - [39m抓取完成
+[32m[2017-04-01 01:56:48.010] [INFO] console - [39m开始抓取: "codesama": 
+[32m[2017-04-01 01:56:58.319] [INFO] console - [39m"codesama" 共有: 54 条视频
+[32m[2017-04-01 01:56:58.320] [INFO] console - [39m正在抓取第0条,一共54条
+[32m[2017-04-01 02:04:53.364] [INFO] console - [39m开始抓取: "caobi92xiaosaohuo": 
+/Users/KamiSama/work/tumblrdl/node_modules/request-promise-core/lib/plumbing.js:130
+            throw thrownException;
+            ^
+
+TypeError: Cannot read property 'tumblr' of undefined
+    at /Users/KamiSama/work/tumblrdl/src/parser.js:62:31
+    at Parser.<anonymous> (/Users/KamiSama/work/tumblrdl/node_modules/xml2js/lib/xml2js.js:493:18)
+    at emitOne (events.js:96:13)
+    at Parser.emit (events.js:188:7)
+    at Parser.exports.Parser.Parser.parseString (/Users/KamiSama/work/tumblrdl/node_modules/xml2js/lib/xml2js.js:512:16)
+    at Parser.parseString (/Users/KamiSama/work/tumblrdl/node_modules/xml2js/lib/xml2js.js:7:59)
+    at exports.parseString (/Users/KamiSama/work/tumblrdl/node_modules/xml2js/lib/xml2js.js:540:19)
+    at Object.getTotal (/Users/KamiSama/work/tumblrdl/src/parser.js:61:10)
+    at Request._rp_callbackOrig (/Users/KamiSama/work/tumblrdl/src/match_video.js:33:16)
+    at Request.plumbing.callback (/Users/KamiSama/work/tumblrdl/node_modules/request-promise-core/lib/plumbing.js:76:39)
+    at Request.RP$callback [as _callback] (/Users/KamiSama/work/tumblrdl/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at self.callback (/Users/KamiSama/work/tumblrdl/node_modules/request/request.js:188:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Request.onRequestError (/Users/KamiSama/work/tumblrdl/node_modules/request/request.js:884:8)
+    at emitOne (events.js:96:13)

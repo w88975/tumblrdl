@@ -1,0 +1,111 @@
+[2017-04-06 01:05:22.718] [INFO] console - 开始抓取: "m37536034": 
+[2017-04-06 01:05:38.581] [INFO] console - "m37536034" 共有: 1671 条视频
+[2017-04-06 01:05:38.582] [INFO] console - 正在抓取第0条,一共1671条
+[2017-04-06 01:05:40.982] [INFO] console - 正在抓取第50条,一共1671条
+[2017-04-06 01:05:41.003] [ERROR] console - (node:54012) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+[2017-04-06 01:05:44.548] [INFO] console - 正在抓取第100条,一共1671条
+[2017-04-06 01:05:48.743] [INFO] console - 正在抓取第150条,一共1671条
+[2017-04-06 01:06:00.495] [INFO] console - 正在抓取第200条,一共1671条
+[2017-04-06 01:06:04.119] [INFO] console - 正在抓取第250条,一共1671条
+[2017-04-06 01:06:13.617] [INFO] console - 正在抓取第300条,一共1671条
+[2017-04-06 01:06:16.552] [INFO] console - 正在抓取第350条,一共1671条
+[2017-04-06 01:06:22.415] [INFO] console - 正在抓取第400条,一共1671条
+[2017-04-06 01:06:26.447] [INFO] console - 正在抓取第450条,一共1671条
+[2017-04-06 01:07:15.526] [INFO] console - 正在抓取第500条,一共1671条
+[2017-04-06 01:07:18.971] [INFO] console - 正在抓取第550条,一共1671条
+[2017-04-06 01:07:25.108] [INFO] console - 正在抓取第600条,一共1671条
+[2017-04-06 01:07:30.613] [INFO] console - 正在抓取第650条,一共1671条
+[2017-04-06 01:08:07.423] [INFO] console - 正在抓取第700条,一共1671条
+[2017-04-06 01:08:25.637] [INFO] console - 正在抓取第750条,一共1671条
+[2017-04-06 01:08:38.075] [INFO] console - 正在抓取第800条,一共1671条
+[2017-04-06 01:08:45.610] [INFO] console - 正在抓取第850条,一共1671条
+[2017-04-06 01:08:49.128] [INFO] console - 正在抓取第900条,一共1671条
+[2017-04-06 01:08:55.113] [INFO] console - 正在抓取第950条,一共1671条
+[2017-04-06 01:08:58.715] [INFO] console - 正在抓取第1000条,一共1671条
+[2017-04-06 01:09:03.070] [INFO] console - 正在抓取第1050条,一共1671条
+[2017-04-06 01:09:20.201] [INFO] console - 正在抓取第1100条,一共1671条
+[2017-04-06 01:09:23.072] [INFO] console - 正在抓取第1150条,一共1671条
+[2017-04-06 01:09:25.797] [INFO] console - 正在抓取第1200条,一共1671条
+[2017-04-06 01:09:29.199] [INFO] console - 正在抓取第1250条,一共1671条
+[2017-04-06 01:09:32.881] [INFO] console - 正在抓取第1300条,一共1671条
+[2017-04-06 01:09:36.843] [INFO] console - 正在抓取第1350条,一共1671条
+[2017-04-06 01:09:51.709] [INFO] console - 正在抓取第1400条,一共1671条
+[2017-04-06 01:10:01.321] [INFO] console - 正在抓取第1450条,一共1671条
+[2017-04-06 01:10:24.514] [INFO] console - 正在抓取第1500条,一共1671条
+[2017-04-06 01:10:28.835] [INFO] console - 正在抓取第1550条,一共1671条
+[2017-04-06 01:10:32.702] [INFO] console - 正在抓取第1600条,一共1671条
+[2017-04-06 01:10:35.732] [INFO] console - 正在抓取第1650条,一共1671条
+[2017-04-06 01:10:37.674] [INFO] console - 正在抓取第1700条,一共1671条
+[2017-04-06 01:10:38.757] [INFO] console - 抓取完成
+[2017-04-06 01:10:38.758] [INFO] console - 开始抓取: "new-aidemilan": 
+[2017-04-06 01:10:41.769] [INFO] console - "new-aidemilan" 共有: 85 条视频
+[2017-04-06 01:10:41.769] [INFO] console - 正在抓取第0条,一共85条
+[2017-04-06 01:10:44.232] [INFO] console - 正在抓取第50条,一共85条
+[2017-04-06 01:11:10.486] [INFO] console - 正在抓取第100条,一共85条
+[2017-04-06 01:11:12.241] [INFO] console - 抓取完成
+[2017-04-06 01:18:24.937] [INFO] console - 开始下载: tumblr_okt87q4DT51u1951p
+[2017-04-06 01:18:24.940] [INFO] console - 开始下载: tumblr_ngg88o6SOj1t1ckqm
+[2017-04-06 01:21:15.845] [INFO] console - 下载完成: tumblr_ngg88o6SOj1t1ckqm
+[2017-04-06 01:21:15.849] [INFO] console - 开始下载: tumblr_o7ec46zp5M1vpohsl
+[2017-04-06 01:26:41.700] [INFO] console - 下载完成: tumblr_okt87q4DT51u1951p
+[2017-04-06 01:26:41.702] [INFO] console - 开始下载: tumblr_nzg1jjXlFm1uc7a8o
+[2017-04-06 01:32:00.220] [INFO] console - 下载完成: tumblr_nzg1jjXlFm1uc7a8o
+[2017-04-06 01:32:00.221] [INFO] console - 开始下载: tumblr_nwowf7Hlst1ujbkmr
+[2017-04-06 01:32:36.404] [INFO] console - 下载完成: tumblr_nwowf7Hlst1ujbkmr
+[2017-04-06 01:32:36.404] [INFO] console - 开始下载: tumblr_ona4mvEKcm1vq5ra1
+[2017-04-06 01:35:56.997] [INFO] console - 下载完成: tumblr_ona4mvEKcm1vq5ra1
+[2017-04-06 01:35:56.999] [INFO] console - 开始下载: tumblr_o0hequmLjr1uxmo1u
+[2017-04-06 01:36:18.004] [INFO] console - 下载完成: tumblr_o7ec46zp5M1vpohsl
+[2017-04-06 01:36:18.006] [INFO] console - 开始下载: tumblr_onk1x3D0Xn1vckkl4
+[2017-04-06 01:38:18.823] [INFO] console - 下载完成: tumblr_onk1x3D0Xn1vckkl4
+[2017-04-06 01:38:18.824] [INFO] console - 开始下载: tumblr_o6rk08wyXJ1st7po8
+[2017-04-06 01:39:22.640] [INFO] console - 下载完成: tumblr_o6rk08wyXJ1st7po8
+[2017-04-06 01:39:22.641] [INFO] console - 开始下载: tumblr_ona8lkOWbt1w8og2c
+[2017-04-06 01:45:27.717] [INFO] console - 下载完成: tumblr_ona8lkOWbt1w8og2c
+[2017-04-06 01:45:27.718] [INFO] console - 开始下载: tumblr_o745dmocWu1vp7lhg
+[2017-04-06 01:46:47.279] [INFO] console - 下载完成: tumblr_o0hequmLjr1uxmo1u
+[2017-04-06 01:46:47.279] [INFO] console - 开始下载: tumblr_o6ejdjwamv1tqr9po
+[2017-04-06 01:55:58.689] [INFO] console - 下载完成: tumblr_o745dmocWu1vp7lhg
+[2017-04-06 01:55:58.690] [INFO] console - 开始下载: tumblr_okypkwt5Jo1vpfhf6
+[2017-04-06 01:56:12.253] [INFO] console - 下载完成: tumblr_okypkwt5Jo1vpfhf6
+[2017-04-06 01:56:12.254] [INFO] console - 开始下载: tumblr_nw2qscgDMz1uiaton
+[2017-04-06 01:56:23.978] [INFO] console - 下载完成: tumblr_o6ejdjwamv1tqr9po
+[2017-04-06 01:56:23.978] [INFO] console - 开始下载: tumblr_nuotu7AUFo1uatgt2
+[2017-04-06 01:59:17.982] [INFO] console - 下载完成: tumblr_nw2qscgDMz1uiaton
+[2017-04-06 01:59:17.984] [INFO] console - 开始下载: tumblr_nx56brLYak1ukcqja
+[2017-04-06 02:00:51.333] [INFO] console - 下载完成: tumblr_nx56brLYak1ukcqja
+[2017-04-06 02:00:51.334] [INFO] console - 开始下载: tumblr_o56xxj64a01umequ7
+[2017-04-06 02:02:55.026] [INFO] console - 下载完成: tumblr_nuotu7AUFo1uatgt2
+[2017-04-06 02:02:55.027] [INFO] console - 开始下载: tumblr_obvftqKBcF1vrbbsq
+[2017-04-06 02:04:27.558] [INFO] console - 下载完成: tumblr_o56xxj64a01umequ7
+[2017-04-06 02:04:27.559] [INFO] console - 开始下载: tumblr_o6l4cnGLMv1v1hyad
+[2017-04-06 02:08:19.067] [INFO] console - 下载完成: tumblr_obvftqKBcF1vrbbsq
+[2017-04-06 02:08:19.068] [INFO] console - 开始下载: tumblr_og9xldsqV11vobqsy
+[2017-04-06 02:08:23.523] [INFO] console - 下载完成: tumblr_o6l4cnGLMv1v1hyad
+[2017-04-06 02:08:23.524] [INFO] console - 开始下载: tumblr_olznl1PAqI1vckkl4
+[2017-04-06 02:18:36.955] [INFO] console - 下载完成: tumblr_olznl1PAqI1vckkl4
+[2017-04-06 02:18:36.956] [INFO] console - 开始下载: tumblr_numfp9bxjd1tk4zy6
+[2017-04-06 02:21:49.703] [INFO] console - 下载完成: tumblr_numfp9bxjd1tk4zy6
+[2017-04-06 02:21:49.705] [INFO] console - 开始下载: tumblr_om089v1LuS1w6e4k8
+[2017-04-06 03:29:39.293] [INFO] console - 开始下载: tumblr_og9xldsqV11vobqsy
+[2017-04-06 03:29:39.296] [INFO] console - 开始下载: tumblr_om089v1LuS1w6e4k8
+[2017-04-06 03:33:43.376] [INFO] console - 下载完成: tumblr_og9xldsqV11vobqsy
+[2017-04-06 03:33:43.386] [INFO] console - 开始下载: tumblr_om84oqsW0L1w5nru0
+[2017-04-06 03:33:55.259] [INFO] console - 下载完成: tumblr_om84oqsW0L1w5nru0
+[2017-04-06 03:33:55.261] [INFO] console - 开始下载: tumblr_o260glImz41uxefe5
+[2017-04-06 03:34:07.606] [INFO] console - 下载完成: tumblr_om089v1LuS1w6e4k8
+[2017-04-06 03:34:07.607] [INFO] console - 开始下载: tumblr_o8v99ocKPb1ubk9jr
+[2017-04-06 03:35:06.292] [INFO] console - 下载完成: tumblr_o8v99ocKPb1ubk9jr
+[2017-04-06 03:35:06.292] [INFO] console - 开始下载: tumblr_o76sx98rtD1s8y2y1
+[2017-04-06 03:35:10.202] [INFO] console - 下载完成: tumblr_o260glImz41uxefe5
+[2017-04-06 03:35:10.203] [INFO] console - 开始下载: tumblr_o4vwj7uLPo1vnl0qg
+[2017-04-06 03:42:31.159] [INFO] console - 开始下载: tumblr_o76sx98rtD1s8y2y1
+[2017-04-06 03:42:31.163] [INFO] console - 开始下载: tumblr_o4vwj7uLPo1vnl0qg
+[2017-04-06 03:45:00.783] [INFO] console - 下载完成: tumblr_o4vwj7uLPo1vnl0qg
+[2017-04-06 03:45:00.788] [INFO] console - 开始下载: tumblr_omjvyxSbX81vckkl4
+[2017-04-06 03:45:23.453] [INFO] console - 下载完成: tumblr_omjvyxSbX81vckkl4
+[2017-04-06 03:45:23.456] [INFO] console - 开始下载: tumblr_oan6pvSlQ41vrxkq6
+[2017-04-06 03:47:13.715] [INFO] console - 下载完成: tumblr_oan6pvSlQ41vrxkq6
+[2017-04-06 03:47:13.716] [INFO] console - 开始下载: tumblr_oia9biaSUi1vlv325
+[2017-04-06 03:48:21.942] [INFO] console - 下载完成: tumblr_o76sx98rtD1s8y2y1
+[2017-04-06 03:48:21.942] [INFO] console - 开始下载: tumblr_o4n47rN7Cy1tu04nu

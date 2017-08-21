@@ -1,0 +1,12 @@
+[2017-08-11 00:03:20.014] [INFO] console - 开始抓取: "m37536034": 
+[2017-08-11 00:03:29.677] [INFO] console - "m37536034" 共有: 2130 条视频
+[2017-08-11 00:03:29.677] [INFO] console - 正在抓取第0条,一共2130条
+[2017-08-11 00:03:38.920] [INFO] console - 正在抓取第50条,一共2130条
+[2017-08-11 00:03:39.050] [ERROR] console - (node:13866) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+[2017-08-11 00:03:45.253] [INFO] console - 正在抓取第100条,一共2130条
+[2017-08-11 00:03:51.191] [INFO] console - 正在抓取第150条,一共2130条
+[2017-08-11 00:03:57.990] [INFO] console - 正在抓取第200条,一共2130条
+[2017-08-11 00:04:04.218] [INFO] console - 正在抓取第250条,一共2130条
+[2017-08-11 00:04:10.656] [INFO] console - 正在抓取第300条,一共2130条
+[2017-08-11 00:04:16.417] [INFO] console - 正在抓取第350条,一共2130条
+[2017-08-11 00:04:22.784] [INFO] console - 正在抓取第400条,一共2130条

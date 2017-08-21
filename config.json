@@ -1,0 +1,16 @@
+{
+    "port": 8888,
+    "user_db": "mongodb://127.0.0.1:27017/hdplay",
+    "pwdSalt": "dsfjlflsjglsj;lgj7987891313is62m",
+    "fileDir": "./downloads",
+    "threads": 10,
+    "proxy": true,
+    "redis_host": {
+       "host" : "127.0.0.1",
+       "port" : "6379",
+       "pass" : "",
+       "db" : 1,
+       "ttl" : 1800,
+       "logErrors" : true
+    }
+}
